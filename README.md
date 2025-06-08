@@ -4,7 +4,7 @@ Repositório contendo a planilha criada no Lab "Criando Uma Ferramenta de Contro
 
 ## Sobre a Planilha
 
-![Planilha](imagens/main.png)
+![Planilha](main.png)
 
 A planilha Dio Invest é um exemplo de como podemos criar planilhas para gerenciamento financeiro.
 Neste caso, a plainlha tem o objetivo de simular uma carteira de Fundos de Investimento Imobiliários (FIIs).
